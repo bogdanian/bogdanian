@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Bogdan Pavlyuchenkov</h1>
-  <p><b>Cyber Operations Professional | Former Senior Game System Designer</b></p>
+  <p><b>Cyber Operations Professional | Senior Game System Designer</b></p>
   <a href="https://ko-fi.com/arq69"><img src="https://img.shields.io/badge/Support_me_on-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
 </div>
 
